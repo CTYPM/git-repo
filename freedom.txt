@@ -1,1 +1,2 @@
-Print("Freedom ")
+Print("Freedom")
+Print("Scotland")
